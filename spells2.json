@@ -689,7 +689,7 @@
     "casting_time":"1 action",
     "level":"Cantrip",
     "school":"Evocation",
-    "class":"Sorcerer, Warlock, Wizard",
+    "class":"Sorcerer, Warlock, Wizard"
   },
   {
     "name":"Branding Smite",
